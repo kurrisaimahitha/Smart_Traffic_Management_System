@@ -26,24 +26,22 @@ This project employs Deep Learning and Object Detection techniques to facilitate
 
 The repository is organized as follows:
 
-```
+'''
 CV_Basics/                                # Basic learning materials on computer vision and OCR
-Data/                                                   # Input data or videos for processing
-interpolated_results/test_interpolated/                    # CSV files for interpolated data visualization
-ipynbPrograms/number_plate_detection_model_training/    # Model training-related files
-object_tracker/tracker_3.py                             # Core script for vehicle tracking in videos
-output/                                          # Annotated video outputs
-Results/                                         # Initial detection CSV files for interpolation
-.testing/                                               # Code snippets for various testing scenarios
 Internship_artifacts/                                   # Agile documents, defect tracking, and unit testing
-.env                                                    # Secret keys and environment variables
+interpolated_results/test_interpolated/                    # CSV files for interpolated data visualization
+number_plate_detection_model_training/               #training model to detect number plate
+object_tracker/                                      # Core script for vehicle tracking in videos
+pythonprograms/                                       #codes for different testing purposes
+results/                                         # Initial detection CSV files for interpolation
+utils/                                           # It helps for code reusability
 .gitignore                                              # Specifies files and directories to be ignored by Git
 add_missing_data.py                                     # Script for data interpolation
 main.py                                                 # Generates initial detection data as CSV
+.env                                                    # Secret keys and environment variables
 requirements.txt                                        # List of project dependencies
 visualize.py                                            # Script for video visualization using interpolated data
-```
-
+'''
 ## Core Functionalities
 
 - Recognition of vehicle license plates (ANPR)
