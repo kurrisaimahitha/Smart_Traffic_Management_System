@@ -26,7 +26,7 @@ This project employs Deep Learning and Object Detection techniques to facilitate
 
 The repository is organized as follows:
 
-'''
+```
 CV_Basics/                                # Basic learning materials on computer vision and OCR
 Internship_artifacts/                                   # Agile documents, defect tracking, and unit testing
 interpolated_results/test_interpolated/                    # CSV files for interpolated data visualization
@@ -41,7 +41,8 @@ main.py                                                 # Generates initial dete
 .env                                                    # Secret keys and environment variables
 requirements.txt                                        # List of project dependencies
 visualize.py                                            # Script for video visualization using interpolated data
-'''
+```
+
 ## Core Functionalities
 
 - Recognition of vehicle license plates (ANPR)
