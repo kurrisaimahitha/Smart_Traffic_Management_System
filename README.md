@@ -8,6 +8,7 @@ This project implements Automatic Number Plate Recognition (ANPR) and Automatic 
 - [Technologies and Tools](#technologies-and-tools)
 - [Installation Guide](#installation-guide)
 - [How to Use](#how-to-use)
+- [Data](#data)
 - [Results](#results)
 - [License Information](#license-information)
 
@@ -100,6 +101,10 @@ Ensure the following are installed on your system:
    python visualize.py
    ```
    - The annotated video output will be saved in the `output/` folder.
+
+## Data(video) used for testing
+
+-https://drive.google.com/file/d/1ipFBmjLwo-lJMBU7F919-Ie8dxsQ9TSA/view?usp=drive_link
 
 ## Results
 
