@@ -26,6 +26,7 @@ This project employs Deep Learning and Object Detection techniques to facilitate
 
 The repository is organized as follows:
 
+
 ```
 CV_Basics/                                # Basic learning materials on computer vision and OCR
 Internship_artifacts/                                   # Agile documents, defect tracking, and unit testing
@@ -38,10 +39,10 @@ utils/                                           # It helps for code reusability
 .gitignore                                              # Specifies files and directories to be ignored by Git
 add_missing_data.py                                     # Script for data interpolation
 main.py                                                 # Generates initial detection data as CSV
-.env                                                    # Secret keys and environment variables
 requirements.txt                                        # List of project dependencies
 visualize.py                                            # Script for video visualization using interpolated data
 ```
+
 
 ## Core Functionalities
 
