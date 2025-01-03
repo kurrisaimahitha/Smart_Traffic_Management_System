@@ -8,9 +8,9 @@ This project implements Automatic Number Plate Recognition (ANPR) and Automatic 
 - [Technologies and Tools](#technologies-and-tools)
 - [Installation Guide](#installation-guide)
 - [How to Use](#how-to-use)
-- [Data](#data)
 - [Results](#results)
 - [License Information](#license-information)
+- [Data](#data)
 
 ---
 
@@ -102,9 +102,6 @@ Ensure the following are installed on your system:
    ```
    - The annotated video output will be saved in the `output/` folder.
 
-## Data(video) used for testing
-
--https://drive.google.com/file/d/1ipFBmjLwo-lJMBU7F919-Ie8dxsQ9TSA/view?usp=drive_link
 
 ## Results
 
@@ -116,6 +113,10 @@ A sample output generated can be viewed here
 ## License Information
 
 This project is distributed under the MIT License. Refer to the [LICENSE](LICENSE) file for more details.
+
+## Data(video) used for testing (It's a large video, cannot be uploaded on github)
+
+Video_link - https://drive.google.com/file/d/1ipFBmjLwo-lJMBU7F919-Ie8dxsQ9TSA/view?usp=drive_link
 
 ---
 
